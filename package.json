@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:AscaL/powergrid-scorekeeper.git",
   "author": "AscaL <emanueleorfanelli@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^1.13.3"
+  }
 }
